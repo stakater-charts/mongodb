@@ -1,0 +1,11 @@
+apiVersion: v1
+name: mongodb
+description: Helm Chart for mongodb
+version: 1.0.0
+keywords:
+  - stakater
+  - mongodb
+home: https://github.com/stakater-charts/mongodb
+maintainers:
+- name: Stakater
+  email: stakater@aurorasolutions.io
